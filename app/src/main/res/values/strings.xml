@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpinnerDialog</string>
+    <string name="spinner_hint">Pilih opsi</string>
+    <string name="presensi">Presensi</string>
+</resources>
